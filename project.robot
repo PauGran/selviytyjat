@@ -146,7 +146,7 @@ validate and update validation info to DB
         ${refStatus}=    Is Reference Number Correct    ${element}[1]
 
         #Validate IBAN
-        ${ibanStatus}=    Check IBAN    ${element}[2]
+        ${ibanStatus}=    Check IBAN    ${element}[1]
 
         #invoice row amount vs header amount
         @{params}=    Create List    ${element}[0]
