@@ -1,1 +1,3 @@
 # selviytyjat
+
+Lotan lisäämä teksti
