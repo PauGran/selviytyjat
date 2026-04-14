@@ -8,6 +8,7 @@ Library    String
 Library    DateTime
 Library    validate.py
 Library    Process
+Library    RPA.FileSystem
 
 *** Variables ***
 ${PATH}    C:\\projects\\Invoice-Automation-Project\\Laskutusautomaatio\\rpa_robotframework\\ 
