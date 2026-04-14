@@ -1,5 +1,5 @@
 *** Lisätään kirjastoja ***
-*** Poistetaan kirjastoja ***
+*** Poistetaan kirjasto ***
 
 *** Settings ***
 Library    DatabaseLibrary
