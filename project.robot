@@ -1,4 +1,5 @@
 *** Lisätään kirjastoja ***
+*** Poistetaan kirjasto ***
 
 *** Settings ***
 Library    DatabaseLibrary
@@ -8,8 +9,6 @@ Library    String
 Library    DateTime
 Library    validate.py
 Library    Process
-Library    RPA.FileSystem
-Library    numpy 
 
 *** Variables ***
 ${PATH}    C:\\projects\\Invoice-Automation-Project\\Laskutusautomaatio\\rpa_robotframework\\ 
